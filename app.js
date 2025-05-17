@@ -1,5 +1,5 @@
 // Juego: Adivina el número 🎯
-console.log("👋 ¡Bienvenido al juego Adivina el número!");
+console.log("👋 ¡Bienvenido al juego ~Adivina el número~!");
 
 // Pedimos el nombre del jugador
 let nombre = prompt("¿Cómo te llamas?");
